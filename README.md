@@ -10,6 +10,11 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   * [Typescript](https://www.typescriptlang.org/)
   * [Jest](https://jestjs.io/pt-BR/)
 
+## 🥇Avaliação do professor
+<p align="start">
+  <img src="/.github/result.png" alt="Avaliação">
+</p>
+
 ## ▶️Como rodar
   ### **Pré-requisitos**
   - Para este tutorial, é **necessário** possuir o **[Nodejs](https://nodejs.org/en/)** instalado de forma global na sua máquina.
